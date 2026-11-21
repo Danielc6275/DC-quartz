@@ -37,8 +37,6 @@ A project I created while learning web development.
 
 ## 📚 What I'm Learning
 
-I'm continuously experimenting with new technologies and documenting my progress.
-
 This site is built with [Quartz](https://quartz.jzhao.xyz/), a static website generator that transforms Markdown into interconnected web pages.
 
 ---
