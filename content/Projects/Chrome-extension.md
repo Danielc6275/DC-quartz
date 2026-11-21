@@ -1,3 +1,10 @@
+---
+title: Chrome Extension
+description: An extension that allows you to store information about leads
+tags:
+  - projects
+  - javascript
+---
 
 
 
